@@ -1,7 +1,3 @@
-function myfunction() {
-    document.getElementById('demo').innerHTML = "Paragrafo novo"
-}
-
 let [millisegundos, segundos, minutos, horas] = [0, 0, 0, 0]
 let timer = document.querySelector('.timer');
 let int;
